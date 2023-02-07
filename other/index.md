@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Others
+title: 其他
 ---
-# Beautiful Chiceken 官方网站 - 其他主页
+# 其他主页
 
 #### 目录
-[电子木鱼](https://xuanxuan1231.ml/other/ElectronicWoodfish)  
-[微软软件许可条款（搬运）（搬运）](https://xuanxuan1231.ml/other/MicrosoftSoftwareLicenseTerms)
+[电子木鱼](other/ElectronicWoodfish)  
+[微软软件许可条款（搬运）（搬运）](other/MicrosoftSoftwareLicenseTerms)
 
 #### 感谢词
 1.  感谢[ Netlify ](https://netlify.com)提供 DNS 、网页托管和证书（来自 Let's Energy ）！

@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: HomePage
+title: 首页
 ---
 # 首页
 #### 用处
@@ -22,4 +22,5 @@ ummmmm.....提供电子木鱼~~（积德版）~~
 
 #### 关于此网站
 我们的邮箱：[xuan@xuanxuan1231.ml](mailto:xuan@xuanxuan1231.ml)（此邮箱正在测试中）
-使用 jekyll + netlify 用心制作 ~~好吧根本没上心hh~~ 
+使用 jekyll + netlify 用心制作 ~~好吧根本没上心hh~~  
+网站荒废了~~~~~~~~

@@ -28,7 +28,7 @@ twitter_username:
 github_username:  xuanxuan1231
 
 # Build settings
-theme: minima
+theme: jekyll-text-theme
 plugins:
   - jekyll-feed
 markdown: kramdown

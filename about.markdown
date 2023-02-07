@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: 关于
 permalink: /about/
 ---
 
@@ -16,6 +16,8 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+# 关于
 
 **以下为正文**
 这里是更**详细**的关于页面~

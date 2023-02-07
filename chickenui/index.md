@@ -2,18 +2,20 @@
 layout: page
 title: ChickenUI
 ---
-# Beautiful Chicken 官方网站 - ChickenUI
+# ChickenUI
 
 #### ChickenUI  :tw-1f413: 本信息
 |当前最新版本|开发维护|首次发布时间|当前发布时间|
-|----------|-------|---|------|
+|:----------|:-------|:---|:------|
 |:v1.528:|:刘*轩:|:2022/11/5:|:2022/11/27:|
 
 #### ChickenUI 官方下载地址
 请选择版本。  
-v1.528 [立即下载](https://pan.baidu.com/s/1cbTUDYrjBIDdG-hWX_gM9w)<br>
-beta [立即下载](https://pan.baidu.com/s/124x8bAxD0aUAj3rcWIQyQQ)<br>
-[查看全部下载...](/download)
+v1.528 [度盘下载](https://pan.baidu.com/s/1cbTUDYrjBIDdG-hWX_gM9w)<br>
+beta [度盘下载](https://pan.baidu.com/s/124x8bAxD0aUAj3rcWIQyQQ)<br>
+直接在本站下载请点击 ↓
+[查看全部下载...](chickenui/download)
+（本站下载由 Netlify 提供 CDN 服务）
 
 #### 感谢词
 1.  感谢[ Netlify ](https://netlify.com)提供 DNS 、网页托管和证书（来自 Let's Energy ）！

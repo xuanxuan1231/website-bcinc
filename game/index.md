@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Games
+title: 游戏
 ---
-# Beautiful Chiceken 官方网站 - 游戏主页
+# 游戏主页
 
 #### 目录
 [掉渣大战](/game1)
@@ -16,6 +16,7 @@ title: Games
 
 #### 注意
 如果在游戏中看到“刘亦轩万岁”“刘亦轩yyds”等字样，请不要惊慌，这是正常现象。
+~~这刘亦轩真老六~~
 
 #### 感谢词
 1.  感谢[ Netlify ](https://netlify.com)提供 DNS 、网页托管和证书（来自 Let's Energy ）！
