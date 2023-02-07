@@ -31,7 +31,7 @@ github_username:  xuanxuan1231
 theme: minima
 plugins:
   - jekyll-feed
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
     extensions: ["tables"]
 # Exclude from processing.
