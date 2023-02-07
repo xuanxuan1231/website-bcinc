@@ -31,7 +31,6 @@ github_username:  xuanxuan1231
 theme: minima
 plugins:
   - jekyll-feed
-  - redcarpet
 markdown: redcarpet
 redcarpet:
     extensions: ["tables"]
