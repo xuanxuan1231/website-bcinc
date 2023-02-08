@@ -104,3 +104,15 @@ This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chi
 
 [jb]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
 [cn-donation]: https://sponsor.cotes.page/
+
+
+## Statements
+This repository is based on the jekyll theme CHIRPY.
+His github user profile is [this](https://github.com/cotes2020)
+The main repository is [this](https://github.com/cotes2020/jekyll-theme-chirpy)
+The starter repository is [this](https://github.com/cotes2020/chirpy-starter)
+The offical website is [this](https://chirpy.cotes.page/)
+
+## Translation
+[简体中文](https://github.com/xuanxuan1231/website-bcinc/README-zh.md)
+
